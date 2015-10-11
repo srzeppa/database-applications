@@ -1,0 +1,6 @@
+INSERT INTO pracownik(imie,nazwisko,pesel,data_ur,pensja) VALUES ('Marcin','Proba','12312312312','19-12-1987','2000');
+INSERT INTO pracownik(imie,nazwisko,pesel,data_ur,pensja) VALUES ('Michal','Kowalski','23145123122','06-10-1993','3000');
+INSERT INTO pracownik(imie,nazwisko,pesel,data_ur,pensja) VALUES ('Karolina','Hallman','75435223423','05-04-1980','4000');
+INSERT INTO pracownik(imie,nazwisko,pesel,data_ur,pensja) VALUES ('Weronika','Migowska','75356532423','15-06-1968','3200');
+INSERT INTO pracownik(imie,nazwisko,pesel,data_ur,pensja) VALUES ('Pawel','Cichosz','18554435345','22-02-1969','2540');
+INSERT INTO pracownik(imie,nazwisko,pesel,data_ur,pensja) VALUES ('Robert','Nowak','99535342423','10-07-1973','2040');

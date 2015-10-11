@@ -1,0 +1,14 @@
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Adres.resources
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Klient.resources
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Samochody.resources
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Start.resources
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Wypozyczenie_samochod.resources
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Wypożyczenie.resources
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Mariusz\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
